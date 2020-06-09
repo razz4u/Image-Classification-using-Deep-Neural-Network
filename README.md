@@ -12,7 +12,6 @@ Deep learning for Image Classification.
 
 
 
-
 # References
 1. https://www.microsoft.com/en-us/download/details.aspx?id=54765
 2. https://pythonprogramming.net/loading-custom-data-deep-learning-python-tensorflow-keras/
