@@ -7,7 +7,7 @@ Deep learning for Image Classification.
 4. In this project the images are store/retrieved from pickle file.
 
 
-
+![](projectImage2.PNG)
 
 
 
